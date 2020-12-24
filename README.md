@@ -1,4 +1,4 @@
-# group-jam
+# Group-Jam
 
 
 # Source Demo
